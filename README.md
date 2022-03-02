@@ -60,6 +60,6 @@ Ayush Kumar, [02-03-2022 16:53]
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/https://www.linkedin.com/in/ayush-kumar-2a7a11190/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://https://www.hackerrank.com/ayush26kr"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://https://www.hackerrank.com/ayush26kr"><img src="https://img.icons8.com/windows/50/000000/hackerrank.png"/></a>
 
 </p>
