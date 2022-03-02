@@ -11,11 +11,13 @@ Ayush Kumar, [02-03-2022 16:53]
 
 - 🌱 I’m currently learning Data Structures and Algorithms.
 
-- 👯 I’m looking to collaborate on OpenSource Projects and Problem soving
+- 👯 I’m looking to collaborate on OpenSource Projects and Problem solving.
 
 - 👨‍💻 All of my projects are available at [My Linkedin Profile](https://www.linkedin.com/in/ayush-kumar-2a7a11190/)
 
 - 📫 How to reach me ayush26kr@gmail.com
+
+- 🥇Attached Resume:https://drive.google.com/file/d/1jAhTp69PBDd38VEHTmTI2BFBhqksf-Ty/view?usp=sharing
 
 - ⚡️ Fun fact An engineer has the power of getting up at 9.45 am and reaching the class at 10.00 am.
 
