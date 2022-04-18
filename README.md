@@ -16,7 +16,7 @@
 
 - 📫 How to reach me ayush26kr@gmail.com
 
-- 🥇Attached Resume: https://drive.google.com/file/d/1MvFJXjSnIrjZOJej5NQ-28QGkgOIJy6-/view?usp=sharing
+- <!--🥇Attached Resume: https://drive.google.com/file/d/1MvFJXjSnIrjZOJej5NQ-28QGkgOIJy6-/view?usp=sharing-->
 
 - ⚡️ Fun fact An engineer has the power of getting up at 9.45 am and reaching the class at 10.00 am.
 
